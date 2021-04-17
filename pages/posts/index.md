@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: Blog
+date: 2021-04-17
 ---
 
-# Posts
+# Recent Content ... 

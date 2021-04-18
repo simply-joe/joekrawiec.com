@@ -9,9 +9,7 @@ class MyDocument extends Document {
   render() {
     const meta = {
       title: 'Joe Krawiec',
-      description: 'Personal Blog - Joe Krawiec',
-      image:
-        'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+      description: 'Personal Blog for Joe Krawiec'
     }
 
     return (
@@ -22,7 +20,6 @@ class MyDocument extends Document {
           <meta property="og:site_name" content={meta.title} />
           <meta property="og:description" content={meta.description} />
           <meta property="og:title" content={meta.title} />
-          <meta property="og:image" content={meta.image} />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@yourname" />
           <meta name="twitter:title" content={meta.title} />

@@ -20,7 +20,7 @@
 *.pem
 
 # vscode 
-.vscode
+/.vscode
 
 # debug
 npm-debug.log*

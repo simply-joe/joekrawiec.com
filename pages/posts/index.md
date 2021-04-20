@@ -8,4 +8,4 @@ date: 2021-04-17
 
 A place for thoughts and opinions including but not limited to:
 
-- Technology, Data, Economics, Finance, Open Source, Coffee, Philosophy & Life
+- Technology, Data, Economics, Finance, Open Source, Dog Pics, Coffee, Philosophy & Life

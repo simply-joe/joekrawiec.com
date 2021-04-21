@@ -20,6 +20,7 @@ export default function Nextra({ Component, pageProps }) {
           type="font/woff2"
           crossOrigin="anonymous"
         />
+        <script async defer data-website-id="a3cfaf53-658d-41be-b4a3-269f469473cd" src="https://umami-weld.vercel.app/umami.js"></script>
       </Head>
       <Component {...pageProps} />
     </>

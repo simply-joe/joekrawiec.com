@@ -4,9 +4,9 @@ export default {
   footer: (
     <small style={{ display: 'block', marginTop: '4rem' }}>
       <div>
-        GitHub: [<a href="https://github.com/simply-joe">@simply-joe]</a>]
+        GitHub: <a href="https://github.com/simply-joe">@simply-joe]</a>
       <br />
-        Linkedin: [<a href="https://github.com/simply-joe">@joseph-krawiec</a>]
+        Linkedin: <a href="https://github.com/simply-joe">@joseph-krawiec</a>
       <br />
         Email: joe [at] joekrawiec [dot] com
       </div>

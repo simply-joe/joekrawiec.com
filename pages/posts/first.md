@@ -1,7 +1,8 @@
 ---
 type: post
 title: The enlightened 
-date: 2021-04-17
+date: 2021-08-17
+tag: econ, sci 
 ---
 
 ### Leaky pipes 

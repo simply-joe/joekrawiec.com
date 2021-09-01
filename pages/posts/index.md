@@ -6,8 +6,6 @@ date: 2021-08-31
 
 # Blog
 
----
-
 <div>
   GitHub: [@simply-joe](https://github.com/simply-joe)
   <br />
@@ -15,3 +13,4 @@ date: 2021-08-31
   <br />
   Email: joe [at] joekrawiec [dot] com
 </div>
+---

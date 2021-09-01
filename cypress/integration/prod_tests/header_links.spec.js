@@ -1,4 +1,4 @@
-describe('My First Test', () => {
+describe('Blog Page test', () => {
     it('clicking "blog" navigates to the posts page', () => {
       cy.visit('https://joekrawiec.com')
   

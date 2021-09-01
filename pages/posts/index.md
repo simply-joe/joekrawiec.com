@@ -10,6 +10,8 @@ A place for thoughts and opinions including but not limited to: Technology, Data
 
 Stay tuned for the first blog post to come shortly! 
 
+[Recents](/posts/recents)
+
 ---
 
 <div>

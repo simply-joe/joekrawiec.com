@@ -1,5 +1,5 @@
 ---
-type: page
+type: post
 title: Blog
 date: 2021-04-17
 ---
